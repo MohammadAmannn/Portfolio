@@ -65,7 +65,7 @@ section {
 .navbar a:hover,
 .navbar a.active {
     color: var(--main-color);
-    font-size: 1.03rem;
+    font-size: large;
 }
 
 #menu-icon {

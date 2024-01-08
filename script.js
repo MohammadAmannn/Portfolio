@@ -87,8 +87,8 @@ ScrollReveal().reveal('.home-content p,.about-content',{ origin:
 const typed = new Typed('.multiple-text', {
 
     strings:['Full Stack Web Develper','Android Developer',],
-    typespeed:100, 
-    backspeed:100,
+    typespeed :50, 
+    backspeed:50,
     backDelay:3000, 
     loop:true
 });
